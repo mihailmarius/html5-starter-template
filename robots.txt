@@ -1,0 +1,6 @@
+# This file must be moved to the website root directory!
+# For more information, see: https://www.robotstxt.org/orig.html
+
+User-agent: *
+Disallow: /assets/
+Disallow: /media/
