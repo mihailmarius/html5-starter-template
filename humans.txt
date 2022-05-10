@@ -1,0 +1,31 @@
+/**
+  * Just for knowing the people behind a website.
+  * More info at https://humanstxt.org/
+**/
+
+/* TEAM */
+	Chef:       The chef name
+	Contact:    chef [at] humanstxt.org
+	Twitter:    @twitterName
+	From:       UK, London
+
+	UI developer / One eyed illustrator / Web designer:
+    Youtube / Blog / Twitter / Github Link:
+	From / Based on:
+
+
+/* THANKS */
+	EN / RO / NL/ CZ /Translator: Jos Flores
+	Youtube / Blog / Twitter / Github Link:
+	From / Based on:	
+	Media Queries by:
+		
+
+/* SITE */
+	Last update:    2022/10/10
+	Language:       English / Romana
+	Doctype:        HTML5
+	Applications:   Notepad++, Visual Studio Code, FileZilla
+
+/* LICENCE */
+SVG Icons:			https://www.svgrepo.com/svg/62629/robot
